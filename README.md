@@ -1,1 +1,2 @@
-# devsim
+
+<a href="https://github.com/devism/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=devism&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&count_private=true" alt="Devism's github stats" /></a> | <a href="https://github.com/devism/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devism&layout=compact&theme=dark&hide_border=true" /></a> |
